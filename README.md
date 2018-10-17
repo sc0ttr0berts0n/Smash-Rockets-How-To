@@ -12,14 +12,14 @@ The object of Shitty Rockets is to force your opponent to fall off the bottom of
 
 ### The Attractor
 <img src="https://imgur.com/ZJjCBAo.png">
-To keep you rocket from falling off the platform, you can use the `Thrust at Attractor` key. Doing so draws you towards the attractor overhead.
+To keep you rocket from falling off the platform, you can use the `Fly at Attractor` key. Doing so draws you towards the attractor overhead.
 
 ### The Platform
 <img src="https://imgur.com/ZV5V7y5.png" width="600">
 The platform is all you have standing between yourself and the bottomless pit. Be careful to keep yourself on its top side, once you fall below, it is tough to get back up.
 
 ### The Opponent
-<img src="https://imgur.com/VaoMQLa">
+<img src="https://imgur.com/VaoMQLa.png">
 While anyone other than you is your opponent, the opponent you target is marked with a crosshair over them. Press the `Fly at Opponent` Key to Smash them off the platform.
 
 #### Enemy Assignment
