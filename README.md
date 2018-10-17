@@ -1,4 +1,4 @@
-# Shitty Rockets How To
+# How To Play Smash Rockets
 A physics-driven, 2d platform brawler. Currently in pre-alpha.
 
 ## Gameplay
