@@ -4,7 +4,7 @@ A physics-driven, 2d platform brawler. Currently in pre-alpha.
 ## Gameplay
 
 ### Objective
-The object of Shitty Rockets is to force your opponent to fall off the bottom of the screen.
+The object of Smash Rockets is to force your opponent to fall off the bottom of the screen.
 
 ## Controls
 - `W or ↑` – Fly towards the Attractor (The circle in the top center)
